@@ -65,8 +65,11 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 | 3    |                    |                  |                |
 | 4    |                    |                  |                |
 | 5    |
+![WhatsApp Image 2026-03-30 at 8 43 45 AM](https://github.com/user-attachments/assets/0bc38c40-b78d-4859-a93c-fccba8eb5688)
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2026-03-30 at 8 45 57 AM](https://github.com/user-attachments/assets/6ba413ac-b48e-4fd0-85e2-7ada2202a82a)
 
 
 ---
@@ -132,11 +135,16 @@ Rf = 15K *2=30KΩ
 | 3    |                    |                  |                |
 | 4    |                    |                  |                |
 | 5    |
+![WhatsApp Image 2026-03-30 at 8 43 58 AM](https://github.com/user-attachments/assets/d9947aad-af7b-424a-beb1-68000e773f95)
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2026-03-30 at 8 46 12 AM](https://github.com/user-attachments/assets/858270f6-0f54-4ef5-8ec1-a1344cdf4563)
 
 
 ---
 ## RESULT:
 
 Thus the RC Phase Shift and Wien Bridge oscillators are designed and tested using op-amp IC 741.
+![WhatsApp Image 2026-03-30 at 8 46 30 AM](https://github.com/user-attachments/assets/4736c936-e49e-4152-8a06-149466b87e3e)
+
